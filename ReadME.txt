@@ -1,0 +1,1 @@
+Long Integer Advanced Data Type that uses a linked list implementation to do math on big numbers, without use of built in long data types. C++
